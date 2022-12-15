@@ -1,0 +1,54 @@
+0
+: 
+{mal_id: 1, name: 'Action', url: 'https://myanimelist.net/manga/genre/1/Action', count: 8482}
+1
+: 
+{mal_id: 2, name: 'Adventure', url: 'https://myanimelist.net/manga/genre/2/Adventure', count: 3770}
+2
+: 
+{mal_id: 5, name: 'Avant Garde', url: 'https://myanimelist.net/manga/genre/5/Avant_Garde', count: 63}
+3
+: 
+{mal_id: 46, name: 'Award Winning', url: 'https://myanimelist.net/manga/genre/46/Award_Winning', count: 429}
+4
+: 
+{mal_id: 28, name: 'Boys Love', url: 'https://myanimelist.net/manga/genre/28/Boys_Love', count: 9121}
+5
+: 
+{mal_id: 4, name: 'Comedy', url: 'https://myanimelist.net/manga/genre/4/Comedy', count: 13592}
+6
+: 
+{mal_id: 8, name: 'Drama', url: 'https://myanimelist.net/manga/genre/8/Drama', count: 8918}
+7
+: 
+{mal_id: 10, name: 'Fantasy', url: 'https://myanimelist.net/manga/genre/10/Fantasy', count: 10193}
+8
+: 
+{mal_id: 26, name: 'Girls Love', url: 'https://myanimelist.net/manga/genre/26/Girls_Love', count: 1531}
+9
+: 
+{mal_id: 47, name: 'Gourmet', url: 'https://myanimelist.net/manga/genre/47/Gourmet', count: 348}
+10
+: 
+{mal_id: 14, name: 'Horror', url: 'https://myanimelist.net/manga/genre/14/Horror', count: 1654}
+11
+: 
+{mal_id: 7, name: 'Mystery', url: 'https://myanimelist.net/manga/genre/7/Mystery', count: 2342}
+12
+: 
+{mal_id: 22, name: 'Romance', url: 'https://myanimelist.net/manga/genre/22/Romance', count: 16264}
+13
+: 
+{mal_id: 24, name: 'Sci-Fi', url: 'https://myanimelist.net/manga/genre/24/Sci-Fi', count: 3128}
+14
+: 
+{mal_id: 36, name: 'Slice of Life', url: 'https://myanimelist.net/manga/genre/36/Slice_of_Life', count: 5115}
+15
+: 
+{mal_id: 30, name: 'Sports', url: 'https://myanimelist.net/manga/genre/30/Sports', count: 1069}
+16
+: 
+{mal_id: 37, name: 'Supernatural', url: 'https://myanimelist.net/manga/genre/37/Supernatural', count: 7173}
+17
+: 
+{mal_id: 45, name: 'Suspense', url: 'https://myanimelist.net/manga/genre/45/Suspense', count: 431}

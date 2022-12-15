@@ -1,0 +1,60 @@
+h6{
+    display: block;
+    margin-block-start: 2.33rem;
+    margin-block-end: 2.33rem;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.sectiontitle{
+    margin: 15px;
+    text-transform: uppercase;
+    line-height: 1.6;
+    font-size: 1.25rem;
+}
+.section{
+    margin-bottom: 56px;
+    box-sizing: inherit;
+    display: block;
+}
+.container{
+    width: 100%;
+    margin: -8px auto;
+    display: flex;
+     overflow-y: scroll;
+    overflow-x: scroll;
+}
+
+.anime-row{
+
+    flex-direction: column;
+   
+}
+.anime-row .row{
+    object-fit: contain;
+    display: inline-flex;
+    gap:50px;
+    margin-left: 2rem;
+    float: right;
+}
+/*
+.row_posters {
+    display:flex;    
+    padding: 20px;
+}
+
+.row_poster::-webkit-scrollbar {
+    display: none;
+}
+
+.row_poster {
+    object-fit: contain;
+    
+    max-height: 100px;
+    margin-right: 10px;
+    transition: transform 450ms;
+}
+
+.row_poster:hover {
+    transform: scale(1.08);
+}
+*/

@@ -1,0 +1,81 @@
+
+.manga-title{
+    background-color: lightblue;
+    border-bottom-color: darkblue;
+    border-style: solid;
+    margin-bottom: 10px;
+}
+
+.page{
+    height: 1000px;
+    background-color: aliceblue;
+}
+.h2{
+    text-align: center;
+}
+.category{
+    border-color: black;
+    border-style: solid;
+    border-width: 0 0 1px;
+    padding-bottom: 5px;
+}
+.categoryleft{
+    font-size:large;
+    border-color: black;
+    border-style: solid;
+    border-width: 0 0 1px;
+    padding-bottom: 5px;
+}
+.paragraph{
+    padding-bottom: 20px;
+}
+.cover{
+    padding-bottom: 20px;
+}
+div{
+    display: block;
+}
+
+tr{
+    display: table-row;
+    vertical-align: inherit;
+}
+
+td{
+    display: table-cell;
+    vertical-align: inherit;
+}
+
+td.leftborder {
+    width: 10%;
+}
+
+.container-info{
+    justify-content: center;
+    align-items: center;
+}
+
+.display{
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    width: 100%;
+    border: 0;
+}
+
+.leftside{
+    width: 225px;
+}
+
+.image{
+    text-align: center;
+}
+
+.rightborder{
+    vertical-align: top;
+    padding-left: 2px;
+}
+
+.information{
+    text-align: center;
+}
