@@ -60,16 +60,6 @@ function Home() {
         </div>
     </div>
    </div>
-   <div className="section">
-    <h6 className="sectiontitle">Drama</h6>
-    <div className="container">
-        <div className = "anime-row">
-          <div className = "row">
-            <Row title="Action" genre="8" />
-          </div>
-        </div>
-    </div>
-   </div>
     </>
   );
   
